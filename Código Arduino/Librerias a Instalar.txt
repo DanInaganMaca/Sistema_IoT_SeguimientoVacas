@@ -1,0 +1,6 @@
+
+Librerias Necesarias a Instalar
+
+Nota: Se pueden buscar en la web o se pueden instalar directamente desde el Gestor de Librerias. 
+
+- DHT sensor library
