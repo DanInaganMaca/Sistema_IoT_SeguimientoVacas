@@ -13,7 +13,8 @@
     • Danilo Inagán Maca 
     • Daniel Felipe Estrada Carvajal 
     • David Fernando Suarez Patiño  
-    • Eduar Ordoñez 
+    • Eduar Ordoñez Muñoz 
+    • Juan Sebastian Arrechea Zapata 
 
   Descripción: 
 
