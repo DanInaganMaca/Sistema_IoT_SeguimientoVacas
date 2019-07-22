@@ -1,0 +1,6 @@
+Integracion y utilizacion de Codigo Fuente para aplicar
+estas utilidades serian en Subfuncion. Variables a medir y transmitir
+Inclinacion y Temperatura(Valor:Humedad)
+
+
+Temperatura=12,Humedad=3,Inclinacion=4
